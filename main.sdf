@@ -2,6 +2,20 @@
 custom_css: ./assets/custom.css
 ::/
 
-# L'Intelligence Artificielle expliquée en 30 minutes 
+# 🧠 L'Intelligence Artificielle expliquée en 30 minutes 💪
 
-## My first Slide
+Pour les devs 👩‍💻 👨‍💻 🧑‍💻
+
+!image(assets/images/cncf-lorient.png,, 323)
+
+!include(slides/01_merciii.sdf)
+!include(slides/02_speaker.sdf)
+!include(slides/03_disclaimer.sdf)
+!include(slides/04_hal9000.sdf)
+!include(slides/05_terminator.sdf)
+!include(slides/06_AI-in-our-life.sdf)
+!include(slides/07_00_AI-existing-tools.sdf)
+!include(slides/07_01_AI-existing-tools.sdf)
+!include(slides/08_AI-today.sdf)
+!include(slides/09_00_AI-categories.sdf)
+!include(slides/09_01_AI-categories.sdf)

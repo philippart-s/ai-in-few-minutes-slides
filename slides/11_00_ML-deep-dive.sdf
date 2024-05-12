@@ -1,3 +1,22 @@
-## Le Machine Learning dans le détail .[slide-text]
+## Le Machine Learning dans le détail .[slide-text sbs]
 
 !image(assets/images/ml-deep-dive/ml.png,,290,,position: absolute; top:41%; left:10%)
+
+<div class="step">
+!image(assets/images/ml-deep-dive/supervised.png,,350,,position: absolute; top:18.3%; left:18%)
+<div style="position: absolute; top:35%; left:40%; width:50%">
+👉 Supervised learning : apprentissage proche de ce que l’on fait avec l’Homme
+</div>
+</div>
+
+<div class="step">
+!image(assets/images/ml-deep-dive/unsupervised-ml.png,,360,,position: absolute; top:21.4%; left:0%)
+<div style="position: absolute; top:46%; left:40%; width:50%">
+👉 Unsupervised learning : apprentissage par patterns et regroupements</div>
+</div>
+
+<div class="step">
+!image(assets/images/ml-deep-dive/reinforcement.png,,330,,position: absolute; top:53%; left:10%)
+<div style="position: absolute; top:57%; left:40%; width:50%">
+👉 Reinforcement learning: apprentissage par renforcement avec système de “récompenses” </div>
+</div>

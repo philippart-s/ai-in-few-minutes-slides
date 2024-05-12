@@ -1,6 +1,4 @@
 ## GPU vs CPU .[slide-text steps]
 
 - !image(assets/images/material/cpu.png,CPU,700,,position: absolute; top:25%; left:10%, true)
- <!--h2 style="position: absolute; top:72%; left:25%">CPU</h2-->
 - !image(assets/images/material/gpu.png,GPU,700,,position: absolute; top:25%; right:10%, true)
- <!--h2 style="position: absolute; top:72%; right:27%">GPU</h2-->

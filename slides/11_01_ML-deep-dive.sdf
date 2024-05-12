@@ -1,9 +1,0 @@
-## Le Machine Learning dans le détail .[slide-text]
-
-!image(assets/images/ml-deep-dive/ml.png,,290,,position: absolute; top:41%; left:10%)
-!image(assets/images/ml-deep-dive/supervised.png,,350,,position: absolute; top:18.3%; left:18%)
-
-<div style="position: absolute; top:25%; left:40%; width:90%">
-
-  - 👉 Supervised learning : apprentissage proche de ce que l’on fait avec l’Homme
-</div>

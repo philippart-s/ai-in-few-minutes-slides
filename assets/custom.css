@@ -8,6 +8,7 @@
   --sd-heading-color: #000;
   --sd-text-color: #000;
   --sd-primary-color: #0097a7;
+  --sd-caption-font-size: 2em;
 }
 
 @font-face {
@@ -130,6 +131,12 @@ h2 {
   text-align: center;
 }
 
+figcaption {
+  position: absolute;
+  top:95%;
+  font-family: Amatic;
+}
+
 .jobs {
   background-image: url(images/jobs/jobs.jpg);
   background-size: cover;
@@ -205,10 +212,18 @@ h2 {
 /****
  * CSS Styles for _merciii.sdf slide
  ****/
+ .love {
+  background-image: url(images/love.jpg);
+  background-size: contain;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  display: block;
+ }
+
 .love h2 {
   color: #fff;
   position: relative;
-  top: 65%;
+  top: 45%;
   left: 25%;
   font-size: 300%;
 }
@@ -251,7 +266,6 @@ h2 {
 }
 
 /** gestion des couleurs du footer **/
-.sd-slide.love.sd-current ~ .footer,
 .sd-slide.alice-burrow.sd-current ~ .footer,
 .sd-slide.material.sd-current ~ .footer,
 .sd-slide.app.sd-current ~ .footer,

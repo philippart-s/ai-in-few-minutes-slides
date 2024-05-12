@@ -1,0 +1,12 @@
+## Un workflow typique dans l’IA .[slide-text full-page-list]
+
+!image(assets/images/app/pre-process.png,,400,,position: absolute; top:45%; left:15%)
+!image(assets/images/app/explore.png,,400,,position: absolute; top:45%; left:34%)
+!image(assets/images/app/train.png,,400,,position: absolute; top:45%; left:52%)
+
+<div style="position: absolute; top:68%;">
+✨ Permet d’optimiser le modèle </br>
+📀 Il faut une grande quantité de données </br>
+🔋 Nécessite de la puissance de calcul </br>
+💰 Il existe des modèles pré-entrainés (payants ou gratuits)
+</div>

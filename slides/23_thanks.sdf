@@ -1,0 +1,5 @@
+## Merci !!! .[thanks]
+
+!image(assets/images/thanks/minions.png,,350,, position: absolute; bottom:10%; left:41%)
+!image(assets/images/thanks/qr-code-slides.png,Slides,173,202, position: absolute; top:20%; left:10%, true)
+!image(assets/images/thanks/qr-code-feedback.png,Feedbacks,173,202, position: absolute; top:20%; right:10%, true)

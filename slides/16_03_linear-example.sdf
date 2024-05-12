@@ -1,0 +1,6 @@
+## Exemple pour un problème de type régression .[slide-text steps full-page-list]
+
+- 🎯 Prédire la valeur d’une variable continue en fonction de 1 à n paramètres
+- 🔢 Variable qui peut prendre une infinité de valeurs
+- !image(assets/images/data/dataset.png,,800,,position: absolute; top:53%; left:5%)
+- !image(assets/images/model/linear-regression.png,,600,,position: absolute; top:45%; right:5%)

@@ -1,0 +1,15 @@
+## Un workflow typique dans l’IA .[slide-text]
+
+!image(assets/images/app/pre-process.png,,400,,position: absolute; top:45%; left:15%)
+
+!image(assets/images/app/explore.png,,400,,position: absolute; top:45%; left:34%)
+<div style="position: absolute; top:68%; width:45%">
+🧠 Le “cerveau” de l’application </br>
+🧮 Basé sur des opérations mathématiques complexes </br>
+🧠 Réseaux de neurones artificiels
+</div>
+<div style="position: absolute; top:68%; left:45%; width:
+50%">
+🧑‍🔬 Fait par les Data Scientist </br>
+📝 Utilise des éditeurs (JupyterLab, Matlab, VSCode, …) 
+</div>

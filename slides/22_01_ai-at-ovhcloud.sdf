@@ -1,0 +1,16 @@
+## Faire de l’Intelligence Artificielle à OVHcloud .[slide-text sbs full-page-list]
+
+<br/>
+
+<div class="step" style="vertical-align:bottom">
+!image(assets/images/ovhcloud/public-cloud.png,,,,vertical-align:bottom) &nbsp; Public Cloud
+</div>
+<div class="step">
+&nbsp;&nbsp;&nbsp;&nbsp;!image(assets/images/ovhcloud/ai-notebook.png,,70,,vertical-align:bottom) &nbsp; AI Notebooks : JupyterLab et VSCode, images pré-construites
+</div>
+<div class="step">
+&nbsp;&nbsp;&nbsp;&nbsp;!image(assets/images/ovhcloud/ai-training.png,,70,,vertical-align:bottom) &nbsp; AI Training : GPU as a Service
+</div>
+<div class="step">
+&nbsp;&nbsp;&nbsp;&nbsp;!image(assets/images/ovhcloud/ai-deploy.png,,70,,vertical-align:bottom) &nbsp; AI Deploy : CaaS pour l’IA
+</div>

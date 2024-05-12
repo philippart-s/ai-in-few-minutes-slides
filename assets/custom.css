@@ -55,6 +55,10 @@ h2 {
   width: 100%;
 }
 
+.full-page-list ul {
+  width: 95%;
+}
+
 .slide-text ul li {
   list-style: none;
   line-height: 1.6em;
@@ -69,16 +73,88 @@ h2 {
   line-height: 1.6em;
 }
 
-.lego {
-  background-image: url(images/lego.jpeg);
+.alice-burrow{
+  background-image: url(images/alice-burrow.jpg);
   background-size: cover;
   display: block;
 }
 
-.lego h2 {
+.alice-burrow h2 {
   color: #fff;
+  text-align: center;
 }
 
+.data{
+  background-image: url(images/data/data.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.data h2 {
+  text-align: center;
+  backdrop-filter: blur(10px);
+  background-color: rgb(255 255 255 / 30%);
+}
+
+.app{
+  background-image: url(images/app/app.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.app h2 {
+  text-align: center;
+  backdrop-filter: blur(10px);
+  background-color: rgb(255 255 255 / 30%);
+}
+
+.model {
+  background-image: url(images/model/model.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.model h2 {
+  text-align: center;
+}
+
+
+.material {
+  background-image: url(images/material/material.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.material h2 {
+  color: white;
+  text-align: center;
+}
+
+.jobs {
+  background-image: url(images/jobs/jobs.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.jobs h2 {
+  color: white;
+  text-align: center;
+}
+
+.caution {
+  background-image: url(images/caution/caution.jpg);
+  background-size: cover;
+  display: block;
+}
+
+.caution h2 {
+  color: white;
+  text-align: center;
+}
+
+.thanks h2 {
+  font-size: 4em;
+}
 /****
  * CSS Styles for _demos.sdf slide
  ****/
@@ -104,7 +180,7 @@ h2 {
 }
 
 .ovhcloud-world {
-  background-image: url(images/ovhcloud-world.png);
+  background-image: url(images/ovhcloud/ovhcloud-world.png);
   background-size: 95%;
   background-repeat: no-repeat;
   background-position: center;
@@ -176,7 +252,10 @@ h2 {
 
 /** gestion des couleurs du footer **/
 .sd-slide.love.sd-current ~ .footer,
-.sd-slide.lego.sd-current ~ .footer,
-.sd-slide.demos.sd-current ~ .footer {
+.sd-slide.alice-burrow.sd-current ~ .footer,
+.sd-slide.material.sd-current ~ .footer,
+.sd-slide.app.sd-current ~ .footer,
+.sd-slide.jobs.sd-current ~ .footer,
+.sd-slide.caution.sd-current ~ .footer {
   color: #fff;
 }

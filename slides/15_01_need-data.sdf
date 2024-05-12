@@ -1,6 +1,0 @@
-## Sans donnée … pas d’intelligence ! .[slide-text steps full-page-list]
-
-- 🧹 La plupart du temps les données sont brutes : il faudra les nettoyer, les pré-traiter, les transformer, …
-- 📀 Il va falloir les transformer en Dataset (en gros une base de données pour IA) et les labelliser
-- 🧪 Un dataset contient les données d’apprentissage, de validations et de tests
-- 🧮 Enfin, ce sont des vecteurs et autres matrices qui seront manipulés par le modèle

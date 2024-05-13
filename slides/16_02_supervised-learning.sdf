@@ -6,4 +6,4 @@
 - 👉 X est souvent une combinaison de facteurs
 - 👉 La qualité de l’apprentissage dépend du dataset (taille & qualité)
 
-!image(assets/images/data/dataset.png,,900,,position: absolute; top:60%; left:25%)
+!image(assets/images/data/dataset.png,,900,,display: block;margin-left: auto;margin-right: auto;width: 50%;)

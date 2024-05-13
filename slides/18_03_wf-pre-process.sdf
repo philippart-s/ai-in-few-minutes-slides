@@ -1,6 +1,6 @@
 ## Un workflow typique dans l’IA .[slide-text full-page-list]
 
-!image(assets/images/app/wf-01.png,,,,position: absolute; top:45%; left:15%)
+!image(assets/images/app/wf-01.png,,,250,position: absolute; top:30%; left:5%)
 <div style="position: absolute; top:68%">
 🎛️  Créer des datasets nettoyés (Valeurs manquantes, Normalisation,  …) </br>
 🎛️  Il existe des datasets pré-créés (gratuits ou payants) </br>

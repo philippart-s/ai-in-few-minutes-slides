@@ -1,6 +1,6 @@
 ## Un workflow typique dans l’IA .[slide-text full-page-list]
 
-!image(assets/images/app/wf-03.png,,,,position: absolute; top:45%; left:15%)
+!image(assets/images/app/wf-03.png,,,250,position: absolute; top:30%; left:5%)
 <div style="position: absolute; top:68%;">
 ✨ Permet d’optimiser le modèle </br>
 📀 Il faut une grande quantité de données </br>

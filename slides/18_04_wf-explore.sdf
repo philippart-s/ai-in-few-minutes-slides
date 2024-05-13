@@ -1,8 +1,6 @@
 ## Un workflow typique dans l’IA .[slide-text]
 
-!image(assets/images/app/pre-process.png,,400,,position: absolute; top:45%; left:15%)
-
-!image(assets/images/app/explore.png,,400,,position: absolute; top:45%; left:34%)
+!image(assets/images/app/wf-02.png,,,,position: absolute; top:45%; left:15%)
 <div style="position: absolute; top:68%; width:45%">
 🧠 Le “cerveau” de l’application </br>
 🧮 Basé sur des opérations mathématiques complexes </br>

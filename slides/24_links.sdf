@@ -2,8 +2,9 @@
 
 !image(assets/images/link.png,,,202, float: right; margin-top: -20vh)
 
-- 🔗 Documentations OVHcloud univers IA
-- 🔗 Repository GitHub exemples IA
+- 🔗 <a href="https://help.ovhcloud.com/csm/en-ie-documentation-public-cloud-ai-and-machine-learning?id=kb_browse_cat&kb_id=574a8325551974502d4c6e78b7421938&kb_category=1f34d555f49801102d4ca4d466a7fd7d&spa=1">Documentations OVHcloud univers IA</a>
+- 🔗 <a href="https://github.com/ovh/ai-training-examples/"> Repository GitHub exemples IA</a>
+- 🔗 <a href="https://github.com/ovh/public-cloud-examples"> Repository GitHub exemples AI Endpoints</a>
 - 🔗 https://unsplash.com/ 
 - 🔗 https://deepai.org/machine-learning-glossary-and-terms/weight-artificial-neural-network 
 - 🔗 https://medium.com/mlearning-ai/introduction-to-neural-networks-weights-biases-and-activation-270ebf2545aa 

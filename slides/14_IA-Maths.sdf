@@ -1,27 +1,19 @@
 ## Basiquement l’IA ce n’est (presque) que des … .[slide-text sbs]
 
-
-
 <table style="margin-left: auto;margin-right: auto;">
   <tr>
-    <td align="center" style=" padding-right: 5em;">
-        <div style="position: relative; ">
+    <td style="display:block; margin: auto; padding-right: 5em;" class="step">
+        <div style="position: relative;">
           <img src="assets/images/maths/maths.jpg" width="500" alt="ici">
           <a style="color:black; font-size: small; position:absolute; bottom: 0; right: 0;" href="https://unsplash.com/@antoine1003">Antoine Dautry</a>
         </div>
+        <h2 style="text-align: center;">Mathématiques</h2>
     </td>
-    <td align="center">
+    <td class="step">
       <div style="position: relative;">
         <img src="assets/images/maths/stats.png" width="500" alt="ici"/>
         <a style="color:white; font-size: small; position:absolute; bottom: 0; right: 0" href="https://www.warnerbros.fr/">Warner Bros</a>      
       </div>
-    </tr>
-  <tr>
-    <td style=" padding-right: 5em;">
-      <h2 style="text-align: center;">Mathématiques</h2>
-    </td>
-    <td>
       <h2 style="text-align: center;">Probabilités</h2>
-    </td>
-  </tr>
+    </tr>
 </table>

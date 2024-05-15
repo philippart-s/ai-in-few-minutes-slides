@@ -1,4 +1,4 @@
-## Le Machine Learning … .[slide-text sbs]
+## Le Machine Learning … .[slide-text]
 
 <table>
   <tr>
@@ -6,7 +6,10 @@
     <td style="vertical-align: top">
       👉 IA : Techniques pour simuler les capacités “intelligentes” d’un être humain<br><br>
       👉 ML : Techniques pour qu’une machine apprenne sans algorithme supplémentaire par l’ingestion de données d’exemples<br><br>
-      👉 DL : ML utilisant poussée des réseaux de neurones pour améliorer les performances dans les déductions
+      👉 DL : ML utilisant poussée des réseaux de neurones pour améliorer les performances dans les déductions<br>
+      <br>
+      <br>
+      <br>
     </td>
   </tr>
 </table>

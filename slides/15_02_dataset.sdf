@@ -1,3 +1,5 @@
 ## Exemple d’un dataset .[slide-text]
 
-!image(assets/images/data/dataset.png,,1024,,position: absolute; top:35%; left:25%)
+<br>
+
+!image(assets/images/data/dataset.png,,1024,,display: block; margin: auto;)

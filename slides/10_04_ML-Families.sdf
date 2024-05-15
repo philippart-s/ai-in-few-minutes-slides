@@ -1,8 +1,8 @@
-## Le Machine Learning … .[slide-text sbs]
+## Le Machine Learning … .[slide-text]
 
 <table>
   <tr>
-    <td style="">!image(assets/images/ml-families/llm.png,,500,,margin-right:2em)</td>
+    <td style="height: 100%;">!image(assets/images/ml-families/llm.png,,500,,margin-right:2em)</td>
     <td style="vertical-align: top">
       👉 IA : Techniques pour simuler les capacités “intelligentes” d’un être humain<br><br>
       👉 ML : Techniques pour qu’une machine apprenne sans algorithme supplémentaire par l’ingestion de données d’exemples<br><br>

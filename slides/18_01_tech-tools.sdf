@@ -1,0 +1,10 @@
+## Technos & Outils .[slide-text steps full-page-list]
+
+- 🐍 Python … comment passer à côté ?
+- 📝 JupyterLab, Matlab, VSCode, …
+- 🧰 Frameworks
+-	&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Peut dépendre du type de modèle ou des données
+-	&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Compatibilité GPU
+-	&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Construction de modèles, Apprentissage, Front, Back, …
+-	&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Quelques frameworks IA connus : Pytorch, TensorFlow, …
+- &nbsp;&nbsp;&nbsp;&nbsp;🛠️ Quelques frameworks 🐍 connus : Streamlit, Flask, ...

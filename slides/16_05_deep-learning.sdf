@@ -1,0 +1,9 @@
+## Deep learning & Réseau de neurones .[slide-text steps full-page-list]
+
+- 💪 L’étape d’après … Plus puissante, plus complexe
+- 🧠 Analogie avec les neurones humain plutôt fausse
+- ↔️ Essentiellement due au mécanisme d’inter-connexions 
+- !image(assets/images/model/deep-learning.png,,900,,display: block;margin-left: auto;margin-right: auto;width: 50%;)
+- ⚖️  w* sont les poids et permettent d’ajuster le comportement du réseau
+- 🐛 b* sont les biais pour rendre le modèle “plus réaliste” et influer sur la fonction d’activation
+- 🔀  F* sont les fonctions d’activation

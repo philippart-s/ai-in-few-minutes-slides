@@ -1,0 +1,9 @@
+## LangChain .[slide-text steps full-page-list]
+
+- 🤔 Le chaînon manquant ?
+- 📚 Rendre plus simple le monde des LLM pour les devs
+- 🛠️ Outillage et SDK
+- 🗃️ Retrieval Augmented Generation + Embedded
+- ⚡️ Templating et optimisation de requêtes
+- 🧩 <a href="https://python.langchain.com/docs/get_started/introduction/">Langchain</a>, <a href="https://docs.langchain4j.dev/intro/">LangChain4j</a>, <a href="https://tmc.github.io/langchaingo/docs/">LangChainGo</a>, …
+- 📽️ <a href="https://www.youtube.com/@DevoxxFRvideos/search?query=langchain4j">Replays Devoxx France 2024</a>

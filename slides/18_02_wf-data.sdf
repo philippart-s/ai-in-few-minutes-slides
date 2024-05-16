@@ -1,0 +1,9 @@
+## Un workflow typique dans l’IA .[slide-text full-page-list]
+
+!image(assets/images/app/wf-00.png,,,250,position: absolute; top:30%; left:5%)
+
+<div style="position: absolute; top:68%">
+📀 Il faut une très grande quantité de données </br>
+📀 La plupart du temps la donnée est brute </br>
+⚠️ Attention aux coûts (stockage, lecture / écriture)
+</div>

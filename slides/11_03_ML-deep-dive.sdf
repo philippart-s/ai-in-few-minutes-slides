@@ -1,0 +1,12 @@
+## Le Machine Learning dans le détail .[slide-text]
+
+<table>
+  <tr>
+    <td style="">!image(assets/images/ml-deep-dive/ml-03.png,,,,margin-right:2em)</td>
+  <td style="vertical-align: top">
+    👉 Supervised learning : apprentissage proche de ce que l’on fait avec l’Homme<br><br>
+    👉 Unsupervised learning : apprentissage par patterns et regroupements<br><br>
+    👉 Reinforcement learning: apprentissage par renforcement avec système de “récompenses”
+  </td>    
+  </tr>
+</table>

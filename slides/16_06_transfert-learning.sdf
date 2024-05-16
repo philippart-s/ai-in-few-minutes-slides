@@ -1,0 +1,7 @@
+## Un mot sur le transfert learning .[slide-text steps full-page-list]
+
+- 🔄 Réutiliser un modèle déjà entraîné
+- 🔎 Le spécialiser dans un domaine bien précis
+- Exemple : détection d’objets divers qui devient une détection de 🪨 / 📄 / ✂️
+!image(assets/images/model/transfert-01.jpg,,600,,position: block; margin-left:1.5em;margin-top:2em)
+!image(assets/images/model/transfert-02.jpg,,600,,position: block; margin-left:8em;margin-top:2em)

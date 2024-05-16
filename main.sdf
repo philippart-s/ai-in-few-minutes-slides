@@ -9,6 +9,7 @@ Pour les devs 👩‍💻 👨‍💻 🧑‍💻
 !image(assets/images/cncf-lorient.png,, 323)
 
 !include(slides/01_merciii.sdf)
+!include(slides/01_qui-est-qui.sdf)
 !include(slides/02_speaker.sdf)
 !include(slides/03_disclaimer.sdf)
 !include(slides/04_hal9000.sdf)
